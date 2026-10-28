@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+npm-debug.log*
+*.log
+dist/
+build/
+coverage/
+.vite/
+.data/
+**/node_modules/
+**/.DS_Store
+**/*.log
+
+data/*.json
+data/*.db
